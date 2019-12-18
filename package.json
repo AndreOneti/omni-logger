@@ -1,6 +1,6 @@
 {
   "name": "omni-loggers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "omni-loggers to create 'sqlite' file to save all logs, generate a local file to put the logs.",
   "scripts": {},
   "main": "index.js",
