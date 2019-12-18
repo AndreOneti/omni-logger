@@ -1,7 +1,7 @@
 {
   "name": "omni-logger",
   "version": "1.0.0",
-  "description": "omni-logger to create 'sqlite' file to save all logs",
+  "description": "omni-logger to create 'sqlite' file to save all logs, generate a local file to put the logs.",
   "scripts": {},
   "main": "index.js",
   "types": "index.d.ts",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/AndreOneti/omni-logger/issues"
   },
-  "homepage": "https://github.com/AndreOneti/omni-logger#readme"
+  "homepage": "https://github.com/AndreOneti/omni-logger#readme",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  }
 }
