@@ -1,0 +1,28 @@
+{
+  "name": "omni-logger",
+  "version": "1.0.0",
+  "description": "omni-logger to create 'sqlite' file to save all logs",
+  "scripts": {},
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreOneti/omni-logger.git"
+  },
+  "keywords": [
+    "rest-api",
+    "database",
+    "logger",
+    "sqlite",
+    "rest",
+    "log",
+    "api",
+    "db"
+  ],
+  "author": "Andre Oneti",
+  "bugs": {
+    "url": "https://github.com/AndreOneti/omni-logger/issues"
+  },
+  "homepage": "https://github.com/AndreOneti/omni-logger#readme"
+}
