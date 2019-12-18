@@ -1,14 +1,14 @@
 {
-  "name": "omni-logger",
+  "name": "omni-loggers",
   "version": "1.0.0",
-  "description": "omni-logger to create 'sqlite' file to save all logs, generate a local file to put the logs.",
+  "description": "omni-loggers to create 'sqlite' file to save all logs, generate a local file to put the logs.",
   "scripts": {},
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreOneti/omni-logger.git"
+    "url": "git+https://github.com/AndreOneti/omni-loggers.git"
   },
   "keywords": [
     "rest-api",
@@ -22,9 +22,9 @@
   ],
   "author": "Andre Oneti",
   "bugs": {
-    "url": "https://github.com/AndreOneti/omni-logger/issues"
+    "url": "https://github.com/AndreOneti/omni-loggers/issues"
   },
-  "homepage": "https://github.com/AndreOneti/omni-logger#readme",
+  "homepage": "https://github.com/AndreOneti/omni-loggers#readme",
   "dependencies": {
     "typescript": "^3.7.3"
   },

@@ -1,4 +1,4 @@
-import logger = require('./lib/omni-logger');
+import logger = require('./lib/omni-loggers');
 
 /**
  * Log on te console te string like > [ 18/12/2019 - 03:53:33 ] - src\index.js:7 -> Teste de Log
