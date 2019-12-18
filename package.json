@@ -27,5 +27,9 @@
   "homepage": "https://github.com/AndreOneti/omni-logger#readme",
   "dependencies": {
     "typescript": "^3.7.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
