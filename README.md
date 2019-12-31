@@ -1,6 +1,6 @@
 # omni-loggers
 
-  [![npm package](https://nodei.co/npm/omni-loggers.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
+  [![npm package](https://nodei.co/npm/omni-loggers.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/omni-loggers/)
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
@@ -10,6 +10,30 @@
   [![GitHub issues][issues-open-image]][issues-open-url]
   [![GitHub forks][forks-image]][forks-url]
   [![GitHub stars][stars-image]][stars-url]
+
+## How to use
+
+```sh
+yarn add omni-loggers
+or
+npm install --save omni-loggers
+```
+
+
+### Simple log and save on log/loggers.log
+
+```js
+const logger = require('omni-loggers');
+
+logger.info('My info message here');
+logger.info({message:'My info message here'});
+
+logger.error('My error message here');
+logger.error({message:'My error message here'});
+
+logger.warn('My warn message here');
+logger.warn({message:'My warn message here'});
+```
 
 ## License
 
